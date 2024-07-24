@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PetLove</string>
+    <string name="username">Nome de Usuário</string>
+    <string name="cpf">CPF</string>
+    <string name="celular">Celular</string>
+    <string name="password">Senha</string>
+    <string name="repassword">Confirme sua senha</string>
+    <string name="email">Email</string>
+    <string name="login">Login</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="sem_cadastro">Ainda não tenho cadastro</string>
+    <string name="esqueci_senha">Esqueci minha senha</string>
+</resources>
